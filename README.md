@@ -34,3 +34,10 @@ The platform is built to:
 ---
 
 ## Project Structure
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── assets/
+└── images/
