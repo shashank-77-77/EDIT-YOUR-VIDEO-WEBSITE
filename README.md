@@ -41,3 +41,21 @@ The platform is built to:
 │   └── script.js
 └── assets/
 └── images/
+
+---
+
+## Deployment Strategy
+The application is deployed using **Netlify**, leveraging:
+- Automated builds from GitHub
+- Global CDN for optimized delivery
+- SSL-enabled secure hosting
+
+---
+
+## Local Setup Instructions
+To run the project locally:
+
+```bash
+git clone https://github.com/Shashank-77-77/edit-your-videos.git
+cd edit-your-videos
+open index.html
